@@ -1,0 +1,5 @@
+
+1- Swagger is for Documentation
+
+Used Package: springdoc-openapi-starter-webmvc-ui
+http://localhost:8081/api/v3/api-docs 
